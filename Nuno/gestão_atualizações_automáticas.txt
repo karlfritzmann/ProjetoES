@@ -1,0 +1,14 @@
+Gestão de Relatórios de Atividade
+
+O Utilizador vai clicar no botão "Gerir Relatórios de Atividade" e numa nova janela aparece uma lista com 
+os relatórios já criados nos ultimos sete dias e no final da janela os botões "Ver todos os Relatórios" e "Criar Relatório"
+
+
+
+
+
+Quando o utilizador clicar em encerrar dia de trabalho (nome prévio) é lhe dado um alerta de que ainda não preenchido o relatório de Atividade Diário
+
+
+
+Gestão de Atualizações Automáticas
