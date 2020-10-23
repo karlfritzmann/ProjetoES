@@ -2,11 +2,9 @@ Gestão de Relatórios de Atividade
 
 O Utilizador vai clicar no botão "Gerir Relatórios de Atividade" e numa nova janela aparece uma lista com 
 os relatórios já criados nos ultimos sete dias e no final da janela os botões "Ver todos os Relatórios" e "Criar Relatório"
-
-
-
-
-
+-Se o Utilizador clicar em "Ver Relatórios" é direcionado para uma nova janela como todos os relátorios criados por ele.
+-Se o Utilizador clicar em "Criar Relatório" é direcionado para uma nova janela com um campo de texto onde deve escrever as suas observações e quando finalizar deve
+clicar em submeter relatório (cujos dados sem ser a observação final vai ser preenchidos automaticamente) é retrocedido automáticamente para a janela anterior
 Quando o utilizador clicar em encerrar dia de trabalho (nome prévio) é lhe dado um alerta de que ainda não preenchido o relatório de Atividade Diário
 
 
